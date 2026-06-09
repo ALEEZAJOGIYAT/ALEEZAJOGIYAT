@@ -1,62 +1,128 @@
+<!-- ====== ANIMATED HEADER BANNER ====== -->
+<a href="https://github.com/ALEEZAJOGIYAT">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=200&section=header&text=Aleeza%20Jogiat&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Community%20Builder%20•%20Women%20in%20Tech&descAlignY=58&descSize=18" alt="header"/>
+</a>
 
+<!-- ====== TYPING ANIMATION ====== -->
+<div align="center">
 
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aleeza+%F0%9F%91%8B;Full-Stack+Developer+from+Pakistan;Women+Techmakers+Ambassador+Candidate;I+build+%26+I+lift+others+up+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+<!-- ====== PROFILE VIEWS + FOLLOW + SOCIALS ====== -->
+![Profile Views](https://komarev.com/ghpvc/?username=ALEEZAJOGIYAT&label=Profile%20Views&color=61DAFB&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/ALEEZAJOGIYAT?label=Follow&style=social)](https://github.com/ALEEZAJOGIYAT)
 
-Hi, I'm Aleeza 👋
+<!-- TODO: replace the # below with your real profile links -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/-X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:#)
 
-
-  Full-Stack Developer · Women Techmakers Ambassador Candidate · Community Builder
-
-
----
-
-## About me
-
-I'm a full-stack developer based in Pakistan, building products at **Gaditek**. I care deeply about writing clean, purposeful code — and equally about using technology to lift others up. I believe the best communities are built on knowledge-sharing, mentorship, and making room for more voices in tech.
-
----
-
-## What I do
-
-**Build** — Full-stack web apps with JavaScript, React, Node.js, and more  
-**Advocate** — For women and underrepresented folks in the tech industry  
-**Teach & mentor** — Breaking down complex concepts and helping others grow  
-**Lead** — Driving community initiatives that make tech more inclusive
+</div>
 
 ---
 
-## Tech stack
+## 🚀 About me
 
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-**Backend & Tools**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+I'm a **full-stack developer** based in Pakistan, building products at **Gaditek**. I care deeply about writing clean, purposeful code — and equally about using technology to lift others up.
+
+- 🔭 Currently building full-stack web apps with **React + Node.js**
+- 🌱 Always learning — currently exploring AI tooling & cloud
+- 👩‍💻 **Women Techmakers Ambassador Candidate** & community builder
+- 💬 Ask me about **frontend, React, mentorship & women in tech**
+- ⚡ Fun fact: I believe the best code is the kind that makes room for more voices
+
+<br clear="right"/>
 
 ---
 
-## Certifications & achievements
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ALEEZAJOGIYAT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ALEEZAJOGIYAT&theme=tokyonight&hide_border=true" alt="streak"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEEZAJOGIYAT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+
+<!-- Trophy wall -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ALEEZAJOGIYAT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
 
 | Certificate | Issuer | Focus |
-|------------|--------|-------|
-| 🏆 WWC 14-Day Coding Challenge | Women Who Code | Consistent coding practice & problem solving |
-| 👩‍💻 Tech Sisters Community Session | Tech Sisters | Women in tech, community & leadership |
-| 🤖 Claude AI Certification | Anthropic | AI fundamentals & prompt engineering |
-| ☁️ Google Cloud Certification | Google | Cloud computing & infrastructure |
+|:-----------|:-------|:------|
+| 🤖 **Claude AI Certification** | Anthropic | AI fundamentals & prompt engineering |
+| ☁️ **[Google Cloud Skills Profile »](https://www.skills.google/public_profiles/cfa48632-1a2a-472a-aa92-27aefb38df9d)** | Google | Cloud computing & infrastructure |
+| 🏆 **14-Day Coding Challenge** | Women Who Code | Consistent practice & problem solving |
+| 👩‍💻 **Community Session** | Tech Sisters | Women in tech, community & leadership |
+
+[![Google Cloud Profile](https://img.shields.io/badge/Google%20Cloud-View%20Public%20Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/cfa48632-1a2a-472a-aa92-27aefb38df9d)
+
+</div>
+
+> 💡 **Tip:** drop your certificate images into a `certs/` folder and embed them like:
+> `<img src="certs/claude-cert.png" width="250"/>` for visual proof of each badge.
 
 ---
 
-## Featured projects
+## 💡 Featured Projects
+
+<div align="center">
 
 | Project | What it does |
-|--------|-------------|
+|:--------|:-------------|
 | 🏫 [campus-system](https://github.com/ALEEZAJOGIYAT/campus-system) | Full-featured campus management system |
 | ✅ [Todoapp-redux](https://github.com/ALEEZAJOGIYAT/Todoapp-redux) | State-managed todo app built with Redux |
 | 💰 [budget-app](https://github.com/ALEEZAJOGIYAT/budget-app) | Personal finance tracking app |
+
+</div>
+
+---
+
+<!-- ====== SNAKE CONTRIBUTION ANIMATION ====== -->
+<div align="center">
+
+### 🐍 Watch my contributions get eaten
+<img src="https://raw.githubusercontent.com/ALEEZAJOGIYAT/ALEEZAJOGIYAT/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 "The best communities are built on knowledge-sharing, mentorship, and making room for more voices in tech."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=120&section=footer"/>
+
+</div>
