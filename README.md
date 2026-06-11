@@ -13,9 +13,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/ALEEZAJOGIYAT?label=Follow&style=social)](https://github.com/ALEEZAJOGIYAT)
 
 <!-- TODO: replace the # below with your real profile links -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliza-jogyat-068833201/)
 [![Twitter](https://img.shields.io/badge/-X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:#)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alizajogyat09@gmail.com)
 
 </div>
 
@@ -90,8 +90,10 @@ I'm a **full-stack developer** based in Pakistan, building products at **Gaditek
 
 </div>
 
-> 💡 **Tip:** drop your certificate images into a `certs/` folder and embed them like:
-> `<img src="certs/claude-cert.png" width="250"/>` for visual proof of each badge.
+> 💡 
+<img src="certs/googlecloud/7xFCpXl6c41wp0LLllrB7TUvpcYBIcfIbPMjsKESjGQ=.png" width="250"/>
+
+<img src="certs/googlecloud/jQ_mW34ufmz0351n8rWsWXdSZVrVN46wVWyZ8KRSF2c=.png" width="250"/>
 
 ---
 
