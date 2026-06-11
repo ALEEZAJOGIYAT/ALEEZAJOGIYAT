@@ -23,7 +23,7 @@
 
 ## 🚀 About me
 
-<img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="woman coding gif"/>
+<img align="right" width="320" src="assets/coder.png" alt="Aleeza coding illustration"/>
 
 I'm a **full-stack developer** based in Pakistan, building products at **Gaditek**. I care deeply about writing clean, purposeful code — and equally about using technology to lift others up.
 
