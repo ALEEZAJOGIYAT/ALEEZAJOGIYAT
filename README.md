@@ -29,7 +29,7 @@ I'm a **full-stack developer** based in Pakistan, building products at **Gaditek
 
 - 🔭 Currently building full-stack web apps with **React + Node.js**
 - 🌱 Always learning — currently exploring AI tooling & cloud
-- 👩‍💻 **Women Techmakers Ambassador Candidate** & community builder
+- 👩‍💻 **Women In Tech** & community builder
 - 💬 Ask me about **frontend, React, mentorship & women in tech**
 - ⚡ Fun fact: I believe the best code is the kind that makes room for more voices
 
