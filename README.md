@@ -14,7 +14,7 @@
 
 <!-- TODO: replace the # below with your real profile links -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliza-jogyat-068833201/)
-[![Twitter](https://img.shields.io/badge/-X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alizajogyat09@gmail.com)
 
 </div>
@@ -23,7 +23,7 @@
 
 ## 🚀 About me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="woman coding gif"/>
 
 I'm a **full-stack developer** based in Pakistan, building products at **Gaditek**. I care deeply about writing clean, purposeful code — and equally about using technology to lift others up.
 
@@ -43,17 +43,20 @@ I'm a **full-stack developer** based in Pakistan, building products at **Gaditek
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Tools
+### Backend & AI
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -67,9 +70,6 @@ I'm a **full-stack developer** based in Pakistan, building products at **Gaditek
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ALEEZAJOGIYAT&theme=tokyonight&hide_border=true" alt="streak"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEEZAJOGIYAT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-
-<!-- Trophy wall -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ALEEZAJOGIYAT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
 
 </div>
 
@@ -103,9 +103,9 @@ I'm a **full-stack developer** based in Pakistan, building products at **Gaditek
 
 | Project | What it does |
 |:--------|:-------------|
-| 🏫 [campus-system](https://github.com/ALEEZAJOGIYAT/campus-system) | Full-featured campus management system |
-| ✅ [Todoapp-redux](https://github.com/ALEEZAJOGIYAT/Todoapp-redux) | State-managed todo app built with Redux |
 | 💰 [budget-app](https://github.com/ALEEZAJOGIYAT/budget-app) | Personal finance tracking app |
+| 🤖 [multi-agent-sdk-comparison](https://github.com/ALEEZAJOGIYAT/multi-agent-sdk-comparison) | Comparison of multi-agent AI SDKs & frameworks |
+| 🎓 [campus-recruitment](https://github.com/ALEEZAJOGIYAT/campus-recruitment) | Campus recruitment & hiring platform |
 
 </div>
 
