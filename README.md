@@ -6,7 +6,7 @@
 <!-- ====== TYPING ANIMATION ====== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aleeza+%F0%9F%91%8B;Full-Stack+Developer+from+Pakistan;Women+Techmakers+Ambassador+Candidate;I+build+%26+I+lift+others+up+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aleeza+%F0%9F%91%8B;Full-Stack+Developer;I+build+%26+I+lift+others+up+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- ====== PROFILE VIEWS + FOLLOW + SOCIALS ====== -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ALEEZAJOGIYAT&label=Profile%20Views&color=61DAFB&style=flat-square)
@@ -25,9 +25,9 @@
 
 <img align="right" width="320" src="assets/coder.png" alt="Aleeza coding illustration"/>
 
-I'm a **full-stack developer** based in Pakistan, building products at **Gaditek**. I care deeply about writing clean, purposeful code — and equally about using technology to lift others up.
+I'm a **full-stack developer** based in Pakistan, building products at **Securiti.ai**. I care deeply about writing clean, purposeful code, and equally about using technology to lift others up.
 
-- 🔭 Currently building full-stack web apps with **React + Node.js**
+- 🔭 Currently building full-stack web apps with **React + Nextjs + FASTAPI + Vuejs**
 - 🌱 Always learning — currently exploring AI tooling & cloud
 - 👩‍💻 **Women In Tech** & community builder
 - 💬 Ask me about **frontend, React, mentorship & women in tech**
